@@ -1,6 +1,6 @@
 # AI & Software Engineering Portfolio
 
-## Ali Mohamed Alhami | Computing Student
+## Ali Mohamed Alhami | AI & Software Engineer
 
 Welcome to my portfolio of university and personal projects. These projects show my work with web development, Python, C#, and introductory machine learning.
 
